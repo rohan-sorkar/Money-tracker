@@ -1,9 +1,7 @@
-import ExpenseTracker from './components/ExpenseTracker';
+import Container from "./components/container";
 
 const App = () => {
-  return (
-    <ExpenseTracker/>
-  )
-}
+  return <Container />;
+};
 
 export default App;
