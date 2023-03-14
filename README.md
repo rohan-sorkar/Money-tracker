@@ -26,4 +26,8 @@ This is a money tracker web app. Where you can track your money.
 - sweetalert2
 - React-icons
 
+## What the app looks like
+![Alt text](https://github.com/rohan-sorkar/Money-tracker/blob/master/blueprint-of-project/app-ui.png)
+
+
 
