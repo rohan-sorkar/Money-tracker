@@ -24,7 +24,8 @@ const AddTransactionForm = ({ addTransaction }) => {
     if (!formState.title || !formState.amount) {
       Swal.fire({
         title: "Your Input Field is Empty",
-        timer: 2000,
+        color: 'red',
+        timer: 3000,
         toast: true,
         position: "top",
       });
